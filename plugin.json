@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "lastscanned",
+  "version": "0.1.0",
+  "description": "Track parcels and ocean containers, and compare carrier rate quotes, through the public lastscanned MCP server.",
+  "author": {
+    "name": "dragonhuntr",
+    "email": "wai@lastscanned.com"
+  },
+  "homepage": "https://docs.lastscanned.com/mcp",
+  "repository": "https://github.com/dragonhuntr/lastscanned-plugin",
+  "license": "MIT",
+  "keywords": [
+    "tracking",
+    "shipping",
+    "parcels",
+    "containers",
+    "rates",
+    "mcp"
+  ]
+}
